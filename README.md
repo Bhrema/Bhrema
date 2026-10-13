@@ -22,32 +22,6 @@ Android developer on a global corporate communication platform, covering voice, 
 
 ---
 
-## Experience
-
-**Android developer · [Mitel](https://www.mitel.com/)**  
-Nov 2024–present · full-time, remote
-
-- Built features for a global corporate communication app with more than 30 modules.
-- Implemented the Presence module: availability scheduling, Do Not Disturb, and automatic call-forwarding rules, with Kotlin, Compose, StateFlow, Coroutines, ViewModel, and WebSocket.
-- Shipped Firebase and QR code authentication, plus voicemail with real-time updates and a new-message indicator.
-
-**Front-end intern · Atos**  
-Mar 2023–Nov 2024 · part-time, remote
-
-Same product, before and after the Mitel acquisition. Fixed bugs in the desktop and web apps with JavaScript, TypeScript, and Electron, and built an internal tool so QA could switch endpoints and generate builds with different feature flags. That work led to a full-time Android role at Mitel.
-
-**Back-end intern · Velsis**  
-Jul 2022–Jan 2023 · part-time, on-site
-
-Maintained a traffic-monitoring system: bug fixes, screens, and reports with Java, Spring Boot, Jasper Reports, and SQL.
-
-**Front-end developer · Heevo**  
-Jun 2020–Jan 2021 · full-time, remote
-
-Built the company website front-end on my own, with HTML, CSS, JavaScript, and Bootstrap.
-
----
-
 ## Stack
 
 | Area | Technologies |
@@ -57,17 +31,6 @@ Built the company website front-end on my own, with HTML, CSS, JavaScript, and B
 | Integration | REST, WebSocket, Firebase, Retrofit, OkHttp |
 | Also | Java, JavaScript, TypeScript, Electron, Spring Boot |
 | Tools | Android Studio, Git, GitHub, Atlassian |
-
----
-
-## Public projects
-
-| Project | What it is |
-|---------|------------|
-| [Chat-Room-App](https://github.com/Bhrema/Chat-Room-App) | Chat app in Kotlin |
-| [myCarValue](https://github.com/Bhrema/myCarValue) | NestJS and TypeScript API, built to study the framework's structure |
-| [Wordpad](https://github.com/Bhrema/Wordpad) | First Electron project |
-| [PUC Pay](https://github.com/Bhrema/PUCPAY) | Group academic project |
 
 ---
 
