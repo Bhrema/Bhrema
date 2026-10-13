@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=12324D&height=140&section=header&text=Bruno%20Henrique%20Crema&fontSize=36&fontColor=f8fafc&animation=fadeIn" alt="Bruno Henrique Crema" width="100%"/>
 
-**Software developer** since 2022
+**Mid-level software developer** since 2022
 
-Curitiba, Paraná · Mitel · Software Engineering, graduating in 2026
+Curitiba, Paraná · Mitel · Android, Flutter, and Java
 
 <p>
   <img src="https://img.shields.io/badge/Curitiba-Paran%C3%A1-12324D?style=flat-square" alt="Curitiba"/>
-  <img src="https://img.shields.io/badge/Mitel-Developer-1e3a5f?style=flat-square" alt="Mitel"/>
+  <img src="https://img.shields.io/badge/Mitel-Mid--level-1e3a5f?style=flat-square" alt="Mitel"/>
   <img src="https://img.shields.io/badge/Software_Engineering-2026-24516A?style=flat-square" alt="Education"/>
 </p>
 
@@ -20,9 +20,9 @@ Curitiba, Paraná · Mitel · Software Engineering, graduating in 2026
 
 ## About
 
-Software developer since 2022, working with **Android/Kotlin**, **Flutter**, **Java**, and **JavaScript**. Also studying **TypeScript** for APIs and interfaces. Pursuing a degree in **Software Engineering**, expected to graduate in **2026**, and currently working at **Mitel** in Curitiba.
+Mid-level software developer since 2022, working with **Android/Kotlin**, **Flutter**, **Java**, and **JavaScript**, and also with **TypeScript** on APIs. Based in Curitiba, at **Mitel**. Pursuing a **Software Engineering** degree, expected to graduate in **2026**.
 
-Open to opportunities.
+Open to mid-level opportunities.
 
 ---
 
